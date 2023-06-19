@@ -17,7 +17,7 @@ const cn = {
     ChatItemCount: (count: number) => `${count} 条对话`,
   },
   Chat: {
-    SubTitle: (count: number) => `与 AI助手 的 ${count} 条对话`,
+    SubTitle: (count: number) => `与 AI助手 的 ${count} 条对话（请不要录入个人或公司的敏感信息）`,
     Actions: {
       ChatList: "查看消息列表",
       CompressedHistory: "查看压缩后的历史 Prompt",

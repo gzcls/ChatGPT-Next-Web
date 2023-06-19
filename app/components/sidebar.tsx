@@ -124,7 +124,7 @@ export function SideBar(props: { className?: string }) {
           您的个人专属助手
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          （请不要录入个人或公司的敏感信息）
+          请不要录入个人或公司的敏感信息
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />

@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>AI助手</div>
         <div className={styles["sidebar-sub-title"]}>
-          您的个人专属助手
+          仅限内部使用，请勿外传
         </div>
         <div className={styles["sidebar-sub-title"]}>
           请不要录入个人或公司的敏感信息
